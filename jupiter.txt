@@ -1,0 +1,11 @@
+The planet Jupiter is the fifth planet out from the Sun, and is two and a half times more massive than all the other planets in the solar system combined. It is made primarily of gases and is therefore known as a “gas giant”.
+
+Mass: 1,898,130,000,000,000,000 billion kg (317.83 x Earth)
+Equatorial Diameter: 142,984 km
+Polar Diameter: 133,709 km
+Equatorial Circumference: 439,264 km
+Known Moons: 67
+Notable Moons: Io, Europa, Ganymede & Callisto
+Known Rings: 4
+Orbit Distance: 778,340,821 km (5.20 AU)
+Orbit Period: 4,332.82 Earth days (11.86 Earth years)
